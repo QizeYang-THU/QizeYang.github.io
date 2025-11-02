@@ -14,31 +14,45 @@ My research interests lie in the field of computer architecture and systems, wit
 Publications
 ======
 **PD Constraint-aware Physical/Logical Topology Co-Design for Network on Wafer**
+
 **Qize Yang**; Taiquan Wei; Sihan Guan; Chengran Li; Haoran Shang; Jinyi Deng; Huizheng Wang; Chao Li; Lei Wang; Yan Zhang, Shouyi Yin and Yang Hu
+
 Proceedings of the 52nd Annual International Symposium on Computer Architecture(ISCA). 2025.
 
 **TMAC: Training-Targeted Mapping and Architecture Co-Exploration for Wafer-Scale Chips**
+
 Huizheng Wang; **Qize Yang**; Taiquan Wei; Xingmao Yu; Chengran Li; Jiahao Fang; Guangyang Lu; Xu Dai; Liang Liu; Shenfei Jiang; Yang Hu; Shouyi Yin and Shaojun Wei
+
 Integrated Circuits and Systems (Volume: 1, Issue: 4, Sept.-Oct. 2024)
 
 **Segmentation-Aware Optimization of Collective for Waferscale Chips**
+
 **Qize Yang**; Taiquan Wei; Jiaxin Liu; Yuxin Jin; Shouyi Yin; Yang Hu
+
 Proceedings of the  16th International Symposium on Advanced Parallel Processing Technology(APPT). 2025.
 
 **Wafer-Scale Computing: Advancements, Challenges, and Future Perspectives**
+
 Yang Hu, Xinhan Lin, Huizheng Wang, Zhen He, Xingmao Yu, Jiahao Zhang, **Qize Yang**, Zheng Xu, Sihan Guan, Jiahao Fang, Haoran Shang, Xinru Tang, Xu Dai, Shaojun Wei and Shouyi Yin
+
 IEEE Circuits and Systems Magazine ( Volume: 24, Issue: 1, Firstquarter 2024)
 
 **Palm: A efficient performance simulator for tiled accelerators with large-scale model training**
+
 Jiahao Fang , Huizheng Wang , **Qize Yang** , Dehao Kong , Xu Dai , Jinyi Deng , Yang Hu , and Shouyi Yin
 
 **Efficient Orchestrated AI Workflows Execution on Scale-Out Spatial Architecture**
+
 Jinyi Deng , XinruTang , Zhiheng Yue ,Guangyang Lu ,**Qize Yang** , Jiahao Zhang , Jinxi Li ,ChaoLi , Shaojun Wei, Yang Hu and Shouyi Yin
+
 IEEE Transactions on Circuits and Systems for Artificial Intelligence ( Volume: 1, Issue: 2, December 2024) 
 
 **SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling**
+
 Huizheng Wang, Jiahao Fang, Xinru Tang, Zhiheng Yue, Jinxi Li, Yubin Qin, Sihan Guan, **Qize Yang**, Yang Wang, Chao Li, Yang Hu, Shouyi Yin
+
 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+
 
 
 
